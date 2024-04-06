@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+.box-section {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+/*_________________________________________GREY________________________________________*/
+#grey{
+    background-color: grey;
+    }
+
+
+
+/*_________________________________________YELOWW______________________________________*/
+
+
+#yellow{
+    background-color: yellow;
+}
+
+
+/*_________________________________________PINK________________________________________*/
+#pink{
+    background-color: hotpink;
+}
