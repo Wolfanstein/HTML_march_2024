@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+.box-section {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+p{
+    margin: 20px;
+}
+h{
+    margin: 20px;
+}
+/*_________________________________________ORANGE________________________________________*/
+
+#orange {
+    background-color: orangered;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+}
+
+/*_________________________________________GREY______________________________________*/
+
+
+#grey{
+    background-color: dimgrey;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+}
+
+/*_________________________________________PINK________________________________________*/
+#pink{
+    background-color: hotpink;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+}
