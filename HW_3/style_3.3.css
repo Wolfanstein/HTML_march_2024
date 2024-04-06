@@ -5,28 +5,50 @@ html{
     scroll-behavior: smooth;
 }
 .box-section {
-    height: 70vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 40px;
 }
+p{
+    margin: 10px;
+}
+h{
+    margin: 10px;
+}
 /*_________________________________________GREY________________________________________*/
-#grey{
+
+#grey {
     background-color: grey;
-    }
-
-
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+}
 
 /*_________________________________________YELOWW______________________________________*/
 
 
 #yellow{
     background-color: yellow;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
 }
-
 
 /*_________________________________________PINK________________________________________*/
 #pink{
     background-color: hotpink;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
 }
