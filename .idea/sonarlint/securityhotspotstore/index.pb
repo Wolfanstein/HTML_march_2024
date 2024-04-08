@@ -169,3 +169,7 @@ A
 HW_3/Maket_2.html,d\e\deb3d140959df13c02ca54d3e1c3af791e1c0bd7
 @
 HW_3/maket_2.css,3\6\36a06bce263ce982e59d99a5fe1fb13a468da3f3
+A
+HW_3/Maket_3.html,0\e\0eed911a7fc1223c4b81489d6471a059cdeda839
+@
+HW_3/maket_3.css,9\8\98e40d38e19790a559e3062eb8a4ec7b9b3fd8bc
