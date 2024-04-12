@@ -391,3 +391,5 @@ Q.idea/sonarlint/securityhotspotstore/f/0/f0e0f9cec86fe4b939ae22be5264c758801eb2
 HW_5/Text_1.html,9\0\9090ac121a61a24eb921375d8d0f962226b0be76
 M
 HW_5/Favicon/site.webmanifest,1\2\12b945c61a0957e1ecd90f6d2493ab3b23d87c77
+@
+HW_5/HW_5.2.html,f\d\fd68da27ec5105295e4fa3f263169bdfa5fab46f
