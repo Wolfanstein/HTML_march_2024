@@ -385,3 +385,9 @@ Q.idea/sonarlint/securityhotspotstore/9/b/9b4fbd29ae17ee21db5e0bb31b7b52759c9764
 Q.idea/sonarlint/securityhotspotstore/a/8/a8ea9ea5203a52d3f6c4dccaaa25f4f9fbb3a9ac,f\4\f4322116099bc06172a40d512a6b642d736b4309
 
 Q.idea/sonarlint/securityhotspotstore/f/0/f0e0f9cec86fe4b939ae22be5264c758801eb28f,f\c\fc51aad2f1ebe72ffedf49fa3dfea24b513ff6fe
+>
+HW_5/Text.html,1\0\1007555a2a32bdbdbb846905e3e0ed6ddd0d311c
+@
+HW_5/Text_1.html,9\0\9090ac121a61a24eb921375d8d0f962226b0be76
+M
+HW_5/Favicon/site.webmanifest,1\2\12b945c61a0957e1ecd90f6d2493ab3b23d87c77
