@@ -1,0 +1,17 @@
+@media screen and (max-width: 600px){
+    .flex {
+        flex-direction: column;
+
+    }
+
+
+    .one{
+        height: 70%;
+        width: 100%;
+    }
+    .two{
+        height: 30%;
+        width: 100%;
+    }
+
+}

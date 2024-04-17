@@ -1,0 +1,34 @@
+@media screen and (min-width: 600px) and (max-width: 800px){
+    .A{
+        flex-direction: column;
+        height: 300px;
+        width: 800px;
+        display: flex;
+        justify-content: center;
+
+
+    }
+
+    .Article{
+        height: 180px;
+        width: 180px;
+        transform: translate(0, 0) rotate(-90deg);
+    }
+    header{
+        height: 150px;
+        width: 800px;
+    }
+    main{
+        height: 350px;
+        width: 800px;
+    }
+    footer{
+        width: 800px;
+        height: 100px;
+    }
+    .Banner, .Article, .Footer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
